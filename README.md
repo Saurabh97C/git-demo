@@ -1,4 +1,4 @@
 # git-demo
 This is my first Git Repository.
 <br>
-Author name- Saurabh chhipa
+Author name- Saurabh chhipa (kittu)
